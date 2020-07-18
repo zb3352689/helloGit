@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("创建分支2");
         System.out.println("创建分支3");
         System.out.println("在线更新");
+        System.out.println("主项目添加");
         System.out.println("在线更新");
         System.out.println("克隆下的项目添加");
     }
